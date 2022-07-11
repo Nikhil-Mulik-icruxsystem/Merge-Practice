@@ -3,7 +3,7 @@ public class AddTwoNumbers
 
    public static void main(String[] args) 
 	{
-        int num3 = 3;
+        int num3 = 33;
 	int num4 = 10;
       int num1 = 5, num2 = 15, sum;
       sum = num1 + num2;
